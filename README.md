@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @1juannunez
-- 👀 I’m interested in Gaming, anime and coding.
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ....
-- 📫 How to reach me https://www.linkedin.com/in/juan-nunez-castillo-1aa408196/
+👋 Hi there! I'm a Software Engineer with 2+ years of experience specializing in Angular, C#, and SQL. I love solving problems, building intuitive web applications, and continually expanding my skills.
 
-<!---
-1juannunez/1juannunez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 Goals:
+
+Enhance my expertise in Data Science and Computer Vision.
+Build meaningful software solutions that make an impact.
+
+⚡ Fun Facts:
+
+Fitness enthusiast 🏋️‍♂️ working on staying strong and healthy.
+Gamer in my free time 🎮.
