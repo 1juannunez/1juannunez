@@ -32,6 +32,16 @@ Proficient in Spanish
 
 ---
 
+### Past Work at Sancsoft
+Here are some of the projects I contributed to while working at Sancsoft:
+-[48hrbooks.com](48hrbooks.com), 
+-[Transtar CTS Web Application] (transtarcts.com)
+-[Transtar CTS Web Application](transtarcts.com)
+-[PAR - Provide a Ride](www.providearide.com)
+-TalentScan
+
+---
+
 ## 📫 Let's Connect
 
 Feel free to check out my repositories or reach out via [LinkedIn](https://www.linkedin.com/in/juan-nunez-castillo)
