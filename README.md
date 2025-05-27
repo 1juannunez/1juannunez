@@ -15,30 +15,34 @@ environment, designing, and troubleshooting/testing.
 
 ## 🛠️ Tech Stack & Skills
 
-**Languages & Frameworks** 
-C#, .NET, HTML/CSS, Javascript, Angular, React, Azure
+**Languages & Frameworks**
 
-**Testing & QA**  
-Troubleshooting, Software Testing
+C#, .NET, HTML/CSS, Javascript, Angular, React, Azure, Python, Django
 
 **Tools & Collaboration**  
+
 Teamwork, Code Reviews, Microsoft Office Suite, Git
 
 **Soft Skills**  
+
 Problem-Solving, Adaptability, Strong communication 
 
 **Languages**  
+
 Proficient in Spanish
 
 ---
 
 ### Past Work at Sancsoft
 Here are some of the projects I contributed to while working at Sancsoft:
--[48hrbooks.com](48hrbooks.com), 
--[Transtar CTS Web Application] (transtarcts.com)
--[Transtar CTS Web Application](transtarcts.com)
--[PAR - Provide a Ride](www.providearide.com)
--TalentScan
+
+www.48hrbooks.com
+
+www.transtarcts.com
+
+www.providearide.com
+
+TalentScan
 
 ---
 
